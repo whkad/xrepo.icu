@@ -1,0 +1,432 @@
+Package: Systemayh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 系
+Depends: firmware (>= 12.0)
+Filename: ./debs/Systemayh_1.0_iphoneos-arm.deb
+Size: 3102
+MD5sum: 5801eb76201174548db8f693d272df41
+SHA1: 15ec83ace89eb88eafbc8e9274903e2b2d6df1e0
+SHA256: e3fc25308337e6877ad2f75424a1f334c4589e126a68648d673848e67e025ea1
+Section: 插件
+Description: 开机自动启用虚拟内存
+Name: 开启虚拟内存ios12-14
+
+Package: Systemayh
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 系
+Depends: firmware (>= 12.0)
+Filename: ./debs/Systemayh_2.0_iphoneos-arm.deb
+Size: 5660
+MD5sum: 20ae534b7275d487c38c9fc94f9a8884
+SHA1: 8957fe0e629ee3f426405d0d41f17116a7319099
+SHA256: a2ec03541cb451d9df376b32af4c06ba7418b691442b29c5ed89175c19ec826b
+Section: 插件
+Description: 越狱成功自动启用虚拟内存，支持所有机型，安装立即生效！详细设置参数：kern.num_vnodes=6000；kern.wq_max_threads=1000；kern.maxvnodes=10000
+Name: 开启虚拟内存ios12-14
+
+Package: Systemayh
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 系
+Depends: firmware (>= 12.0)
+Filename: ./debs/Systemayh_3.0_iphoneos-arm.deb
+Size: 5766
+MD5sum: 229e466d437b547fe8cb2073fb620b17
+SHA1: 3584a8907ede3fa83fd60f6ea3e872d0c391b0e5
+SHA256: a71e3ec93cd90ddcc8f228ed0d91a48c97a59d9efdcb0acdfab7a8ef994afbef
+Section: 插件
+Description: 越狱成功自动启用虚拟内存，支持所有机型，安装立即生效！详细设置参数：kern.num_vnodes=6000；vm.darkwake_mode=0；kern.wq_max_threads=1000；kern.maxvnodes=10000，如需要旧版本，右上角降级。
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 开启虚拟内存ios12-14
+
+Package: appdata
+Version: 1.3.6
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/appdata_1.3.6_iphoneos-arm.deb
+Size: 282664
+MD5sum: 6bf5b08bd9ad23ad813fc334208290bf
+SHA1: fa263617e9e0654c94f632e73cbe4a9d78ab8c9d
+SHA256: 4c077f21d65e3d6a2a240671be205cb9d1f45ea7eb794cb503653239f00bfc27
+Section: 插件
+Description: 在桌面对程序图标向上滑动可查看/访问程序数据/清除缓存/角标等，iOS11-14。
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppData
+
+Package: appdatamanager
+Version: 1.6.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/appdatamanager_1.6.1_iphoneos-arm.deb
+Size: 5407714
+MD5sum: 2b207ebb0c00095762736a9a1d480ecd
+SHA1: 568d1d1caa640f6460cfd0e2488fb403c0901325
+SHA256: 6b41f3c82ce5de9dd994ed9b72ea60449a395408caee989a55f28e93f3286a8a
+Section: 插件
+Description: 应用数据 清除/备份/恢复/ iOS7-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppsManager 「应用数据管理」
+
+Package: autobrightness11
+Version: 0.1-4-1
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./debs/autobrightness11_0.1-4-1_iphoneos-arm.deb
+Size: 15588
+MD5sum: e50d1043b3c68bcf987ab20f11002188
+SHA1: db64bb19f25e972adfe229a2ad194c3db0bf65b1
+SHA256: 6e8767b50a45576975c89271b5d18e5d4ed264bdecc33b01c5a4f58145d56e66
+Section: 插件
+Description: 控制中心添加一个自动亮度开关 iOS11-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AutoBrightnessToggle控制中心亮度开关
+
+Package: autosetter
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.7), preferenceloader
+Filename: ./debs/autosetter_0.1_iphoneos-arm.deb
+Size: 193888
+MD5sum: a27a3e2aa637c381a29bec28cc227b69
+SHA1: 548b347c03991eea4a4f83f2439509ebcb3b4673
+SHA256: a3b702c72624c7050fb1da24fec5cb1d23759c946315497ecec2e08a65e0f639
+Section: 插件
+Description: 功能:1.设置G值并自动固定G值 2.查看设备A值（获取A值方法，1.前往设置里面固定好G值 2.前往桌面打开NonceSet143，软件内-从上往下-第二大行就是A值）
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 固定G值-查看A值
+
+Package: backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Filename: ./debs/backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 16098
+MD5sum: 9876d869790baa4970ac2ac982c2d129
+SHA1: ce209d011329cbb3a235c34153b19ee81ca79b3d
+SHA256: 19021f75b4f5df0854865eb2fd5b94eb45ceebe71b24af37ab6d5fbb8b6ca0ec
+Section: 插件
+Priority: required
+Depiction: 在控制中心添加“真实后台”
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 真实后台2（ios13-14）
+
+Package: batterybuddy
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Depends: mobilesubstrate
+Filename: ./debs/batterybuddy_1.0.2_iphoneos-arm.deb
+Size: 15272
+MD5sum: ea695f94a210d8e8abe3b71c2c19b427
+SHA1: 86ff44d6f9bd5d0bff366a5156ecd58705a9f9ab
+SHA256: 3325abc5a8745d9695c2e919b8dd95b48e7b5ea31a18fec5ee547acbbce94606
+Section: 插件
+Description: 电池ui美化
+Author: Litten & neilsardesai
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 电池ui美化
+
+Package: batteryhealthenabler
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Filename: ./debs/batteryhealthenabler_1.0_iphoneos-arm.deb
+Size: 8112
+MD5sum: 33bed4be8126a96b75e2b7ea7df36597
+SHA1: d0d752cc26e65e35e8766895f125ceab59d0727a
+SHA256: e7e0cbcb9a8aa794ecac98b35de1ee4d5113a8d000247a9707f0a1ad1f34dc55
+Section: 插件
+Description: 解决手机更换电池无法显示电池健康，弹出无法验证电池（安装即用，安装后电池优化不可切换，卸载后可切换）
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 开启电池健康显示（ios11-14）
+
+Package: com.aodmin.cn
+Version: 3.19
+Architecture: iphoneos-arm
+Maintainer: 系
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.aodmin.cn_3.19_iphoneos-arm.deb
+Size: 4643192
+MD5sum: d999ded76311a73262b772b450a4b964
+SHA1: 92341127d084a8324bf031e6ab1d0e9e901e2123
+SHA256: d30361e9da851b2f521f0d7a22fcaf76220b75cc18b9252a0a8c083356df8f28
+Section: 系验证
+Description: 支持9-14.8 未越狱状态下 直接 下载/信任/安装 软件，无需任何多余操作！首次安装：安装弹窗即失败，成功会重启！ 升级安装：无反应即成功！官网Aodmin.cn
+Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
+Name: 系验证🦋
+
+Package: com.comic.ismh
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.comic.ismh_1.0-1_iphoneos-arm.deb
+Size: 118504
+MD5sum: 935888d524c18a7672058b58d2778355
+SHA1: fd5027bafe034dcedcfe7faeebd986bd5bf1b22e
+SHA256: b7d5704805decc0773411a3874419617cddaa5a0499a8962ea43e6b805e3c16f
+Section: 插件
+Description: 飒漫画解锁所有漫画 3.0.7
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 飒漫画 HOOK
+
+Package: com.cydown
+Version: 6.9.9
+Architecture: iphoneos-arm
+Filename: ./debs/com.cydown_6.9.9_iphoneos-arm.deb
+Size: 897524
+MD5sum: 8aa7fea40f885b869476723f341d5f3a
+SHA1: 7b85d82ccb45d734323c5748c5fb8915726610ef
+SHA256: 67af304331ad1874da1063d53b323b48daa32a72391bc313a03515c379f15a6d
+Section: 插件
+Description: 增加安装插件关闭按钮，去除升级提示，去除设置页选项，去除桌面图标。
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: CyDown [6.9.9]
+
+Package: com.fp.cn
+Version: 0.3.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), backgrounderaction13
+Filename: ./debs/com.fp.cn_0.3.1_iphoneos-arm.deb
+Size: 60846
+MD5sum: 8b66089d9f9f6b6a6b2893bf92313a5a
+SHA1: d0755397a53ce9b62d5bb1f9b87f2b261054565c
+SHA256: 63efaf50ad1c6bd68ca7c19d3fbbe613189a16e9777216f5e08131c7b54d7bba
+Section: 插件
+Description: 无设置，安装即用（使用方法，调出后台，长按你需要分屏的应用）
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: MilkyWay分屏（ios13-14）
+
+Package: com.theos.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, make, perl, odcctools, darwintools, com.bingner.plutil, com.randy420.tools (>= 0.9), ws.hbang.common, mterminal, com.kabiroberai.swift-toolchain, openssl
+Filename: ./debs/com.theos.cn_1.0_iphoneos-arm.deb
+Size: 1038
+MD5sum: aab37cac83920b7d5c394263a530a2af
+SHA1: 53f0e3ad5881ab8b78b005ae8d32a32c02ff93b5
+SHA256: 37a33b1c059d09a8f4187abe24c5794ded16cdc560ec331e1e9ea4c948558b47
+Section: 插件
+Description: 挂v安装！安装后直接即可编译。
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 安装Theos
+
+Package: dockx
+Version: 2.3.2
+Architecture: iphoneos-arm
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=12.0), com.spark.libsparkcolourpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
+Filename: ./debs/dockx_2.3.2_iphoneos-arm.deb
+Size: 484510
+MD5sum: d4bc8c4afc9c5047da369c94e0473291
+SHA1: 786d1bafa54ac124caba07daefcbf11c0d0989a3
+SHA256: af016522f5481ef39c6d5e375e925012a1b6a5feb6b735c8a667fc95fca4be83
+Section: 插件
+Description: 键盘底部 增加 粘贴/全选/剪切/ 快捷方式 iOS12-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: DockX 键盘增强
+
+Package: filza
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Maintainer: untd
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
+Filename: ./debs/filza_3.8.2-4_iphoneos-arm.deb
+Size: 12852928
+MD5sum: 70534c23c6d4afdcd771d724b95709df
+SHA1: d658b1913c52a00ef63720c51a309da0c35c9d1b
+SHA256: 226cdda92332cdb14f53c4548fcf361b71d5011ee926dc0c1e5d894425f382ef
+Section: 插件
+Description: iOS平台文件夹管理器
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Filza 文件夹管理器完整版
+
+Package: flex3
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/flex3_1:3~Beta98_iphoneos-arm.deb
+Size: 14368506
+MD5sum: 3a49f269bcbc51168b24537dbc845ae5
+SHA1: 4e38cb671672fc30154f04ae889fd6176bffa623
+SHA256: 0c347971a3ad4afdb1e7e2491d5156c668a4a6e91a0b67016858e3fbd20d92d8
+Section: 插件
+Description: 无需汉化 iOS12.2-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Flex 3
+
+Package: gpsmaster
+Version: 1.8.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/gpsmaster_1.8.1_iphoneos-arm.deb
+Size: 4918528
+MD5sum: de4e39a331a512444cec15ada2fb5fcb
+SHA1: 3931d57dc34959aec15feaf07a9bcbf2815d6683
+SHA256: 207efbcf22e35cf1ede530ee06353af124e8296813d85c0c9a13e689e8fa6e08
+Section: 插件
+Description: 在任何程序中模拟你的行程
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: GPS定位大师（10-13）
+
+Package: icleanerpro
+Version: 7.9.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4118210
+MD5sum: cf7e97c9bc43893b09c79fbc4f1d9d51
+SHA1: d182d7e8e0e685860d6ce5da6992021954daebf1
+SHA256: cda513f3780b5cd1df2c41363fc9369a00797d0eeecbf1ad4e78492ce9e82ce6
+Section: 插件
+Description: iCleaner Pro 已破解 iOS4-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: iCleaner Pro
+
+Package: localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3672
+MD5sum: 9ed7a16efbb2a534420dfa41ba76ed3a
+SHA1: edd41eb60779478fc28d881c6c62fef8307cab49
+SHA256: ef8cded9b6be65dd6e9b04d5cb106a4dbe189c05012e7e1bb5416e5b1631d80a
+Section: 插件
+Description: 应用内购 ios13-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: LocalIAPStore 内购破解
+
+Package: locationfakerx
+Version: 2.7-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0)
+Filename: ./debs/locationfakerx_2.7-3_iphoneos-arm.deb
+Size: 1574930
+MD5sum: 902b453d047e809268eec76e2043f45d
+SHA1: 770acbc10acba18ca9c45af3a234dbc59fb07daa
+SHA256: 7e8de5817a4462d2070ccd23f029a84e68f776d6d90c99ee5292f000be11e060
+Section: 插件
+Description: 在任何程序中改变你的位置
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: LocationFakerX（10-14）
+
+Package: networkmanage
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/networkmanage_1.1-3_iphoneos-arm.deb
+Size: 139238
+MD5sum: 2fb26e9e7f039cb63c0b7b908c2f43f6
+SHA1: 28911061f718000222b1c8691eb22f10e33bf1c8
+SHA256: 1b14ee55242df603e08c20310b6ecd319e47d5c5bc0131789b95aad9cdb2b91d
+Section: 插件
+Description: 管理设备的联网权限，iOS10-iOS14
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: NetworkManage[联网管理]
+
+Package: powerselector11
+Version: 1.3.3
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/powerselector11_1.3.3_iphoneos-arm.deb
+Size: 235612
+MD5sum: d9148c2579434de943991a31acd84a18
+SHA1: df4c68e0968b228e16e04d1eaa3b5ff82dd1fe52
+SHA256: 24cf2a401a839ae7f3f11e9544121925f67b8720f58e1b003671bf4dc5f79f77
+Section: 插件
+Description: PowerSelector 已汉化 iOS 11-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: PowerSelector
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.6_iphoneos-arm.deb
+Size: 36414
+MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+SHA1: c1d547036234756c5e75a633393d4ffa791b1126
+SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+
+Package: routefakerx
+Version: 2.7-1k
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts: org.thebigboss.locationfaker8, org.thebigboss.locationchangerx, com.cunstuck.routefakerx
+Filename: ./debs/routefakerx_2.7-1k_iphoneos-arm.deb
+Size: 825756
+MD5sum: ee3691572fd4b6675137e09c3a57fceb
+SHA1: adf39aa1f8c4da514aa3718dfba8720ccc7b762b
+SHA256: e67763f02ee31b5e0c2421e14ba6c69069af298e7a5641f51162203e38ab087d
+Section: 插件
+Description: 在任何程序中模拟你的行程
+Author: CUNSTUCK
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 模拟路线（10-14）
+
+Package: showtouch
+Version: 1.1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1.1)
+Filename: ./debs/showtouch_1.1.1_iphoneos-arm.deb
+Size: 128838
+MD5sum: ba8239c5dd3ebc6840464e0044315811
+SHA1: b830c59c9dc9a3fe23ab2e60be17c7bb1e0ff290
+SHA256: e4acd6024ffe073eda92c4009941aae2525b795f513d25200d853d80b2fabb34
+Section: 插件
+Description: 显示触摸轨迹
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: ShowTouch 录屏红点
+
+Package: sileoturkiyee.nfcwriterx
+Version: 3.2.78
+Architecture: iphoneos-arm
+Maintainer: x
+Depends: firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/sileoturkiyee.nfcwriterx_3.2.78_iphoneos-arm.deb
+Size: 1343936
+MD5sum: 584dc103f401a7b36b1b47593c6fba6c
+SHA1: 5a69c65a151c985e8e5804ceb36424f7ee1f9377
+SHA256: 3221cfdc68da2d71683014e85fb8f67b9433efb8ede6e10bcea69b24d9efdb1d
+Section: 插件
+Description: NFC模拟支持11-14
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: NFCWriter XS
+
+Package: supercharge
+Version: 1.0.0~preview1
+Architecture: iphoneos-arm
+Maintainer: Supercharge Team <maintainer@supercharge.app>
+Depends: firmware (>= 9.1), mobilesubstrate, org.swift.libswift (>= 5.0)
+Filename: ./debs/supercharge.deb
+Size: 8148246
+MD5sum: fd12c07b16bf8a63d6659299294984e1
+SHA1: f7616dbdc7d8423b72c890ea376a0b8855492bce
+SHA256: 6673afad8c2cc841769095e15ceea9a1a7a21b5d999cd074ece00d5b78c1ef98
+Section: 插件
+Description: Supercharge 提供了比 Flex 3 更强大的进程挂钩，它可以让用户修改他们的设备，而无需掌握如何编写越狱调整的广泛知识。同样，它允许用户彼此共享补丁。
+Author: Supercharge Team <author@supercharge.app>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Supercharge插件钩子
+
