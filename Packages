@@ -144,6 +144,21 @@ Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 开启电池健康显示（ios11-14）
 
+Package: com.aodmin.cn
+Version: 3.21
+Architecture: iphoneos-arm
+Maintainer: 系
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.aodmin.cn_3.21_iphoneos-arm.deb
+Size: 4812634
+MD5sum: ba75a1bf29c30b7cd32a36792dcf7aab
+SHA1: 0d74d2367ee7ce62712e87dfe0bf3f51293a749d
+SHA256: d9e6326721cf0ec46e922fa4eb59ef215286b3ad9212ce13716c540ac423bf4c
+Section: 系验证
+Description: 支持9-14.8 未越狱状态下 直接 下载/信任/安装 软件，无需任何多余操作！首次安装：安装弹窗即失败，成功会软重启！ 升级安装：无反应即成功！官网Aodmin.cn
+Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
+Name: 系验证🦋
+
 Package: com.comic.ismh
 Version: 1.0-1
 Architecture: iphoneos-arm
