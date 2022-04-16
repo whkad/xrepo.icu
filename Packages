@@ -150,10 +150,10 @@ Architecture: iphoneos-arm
 Maintainer: 系
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.aodmin.cn_3.22_iphoneos-arm.deb
-Size: 4814620
-MD5sum: 87eee666004d0e2b778279ee1390100a
-SHA1: 786b104597af70d82d6f31eb3f8166dc5234d0a3
-SHA256: f996bf9b81e255c2cfcad6e05d166bfa60b383abaf721f48e8b6a472cc8daf11
+Size: 4814560
+MD5sum: 1729e3f01012e720a08a4c7a6cc1e0aa
+SHA1: 710e7b703745ce61b5e025acbb658c2f20e242b4
+SHA256: 32662b5329e9690c900318b7a063873408a0ec0acb0b62f90343ac8101a28b0b
 Section: 系验证
 Description: 支持9-14.8 未越狱状态下 直接 下载/信任/安装 软件，无需任何多余操作！首次安装：安装弹窗即失败，成功会软重启！ 升级/重复 安装：无反应即成功！官网Aodmin.cn
 Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
