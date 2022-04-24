@@ -145,17 +145,17 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 开启电池健康显示（ios11-14）
 
 Package: com.aodmin.cn
-Version: 3.23
+Version: 3.24
 Architecture: iphoneos-arm
 Maintainer: 系
 Depends: firmware (>= 9.0)
-Filename: ./debs/com.aodmin.cn_3.23_iphoneos-arm.deb
-Size: 4815346
-MD5sum: 132d109a67804d46c2a05b90b8b474d3
-SHA1: 99c80971a776131c456566bbd9bd5b0f9f6456e5
-SHA256: 1203dcc1a80bd9c015b80d55e9107591b610ee04eab99e10d64d3ce085129b12
+Filename: ./debs/com.aodmin.cn_3.24_iphoneos-arm.deb
+Size: 4816194
+MD5sum: fc427bfef1a17bdab0897b3e36aab8b8
+SHA1: 6291cf3f150fb9e1daf97b9ce3c1a2108b44acac
+SHA256: 2da84cef8f963ab5fe64ef58bea1249cec13b1eff37781b470aff3bf22258e83
 Section: 系验证
-Description: 更新支持ipad-支持9-14.8 未越狱状态下 直接 下载/信任/安装 软件，无需任何多余操作！首次安装：安装弹窗即失败，成功会软重启！ 升级/重复 安装：无反应即成功！官网Aodmin.cn
+Description: 支持9-14.8 未越狱状态下 直接 下载/信任/安装 软件，无需任何多余操作！首次安装：安装弹窗即失败，成功会软重启！ 升级/重复 安装：无反应即成功！官网Aodmin.cn
 Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
 Name: 系验证🦋
 
@@ -201,14 +201,14 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: MilkyWay分屏（ios13-14）
 
 Package: com.hxpbj
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 系验证<aodmin@qq.com>
-Filename: ./debs/com.hxpbj_1.0_iphoneos-arm.deb
-Size: 8742
-MD5sum: d581d6f4d9f2b71c6213fdacfe09227e
-SHA1: e7e5a39fed4183dc5012e29b7d4f7ced0ef9ae05
-SHA256: 363f5c4cff2d102d200332d6696075187f7de45096b79e3133e07a6aac3dab1b
+Filename: ./debs/com.hxpbj_1.1_iphoneos-arm.deb
+Size: 11254
+MD5sum: 8c197414578ccd56e04229cc04470b0c
+SHA1: a7a921a2cc622c514609070d658342fabdd963f4
+SHA256: d6a146c307b59657ab1229cd81a66257e93c0bffa64c2adaddcdeb3471ae3821
 Section: 屏蔽越狱类
 Description: 屏蔽华夏银行越狱，支持最新版
 Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
