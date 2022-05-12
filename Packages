@@ -150,10 +150,10 @@ Architecture: iphoneos-arm
 Maintainer: 系
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.aodmin.cn_3.28_iphoneos-arm.deb
-Size: 4839706
-MD5sum: ee58da6436d3dfc611e74c7fc0d5ecae
-SHA1: 8cc2e3022dc231ab22c5fd104ba04133a754b7d5
-SHA256: bbc9b9d83241ecb7c2f9e1e2318ffa50dc55c540b713d9fd80e56ee5b5a1f060
+Size: 4840284
+MD5sum: 97739b83e3ec4053f2805aaa043cfde0
+SHA1: eed82df093714aea9c6019ea62abc4f336210c44
+SHA256: 417445114b7c10ff6bd1eda27c97291671787616ec6a440469655e7904db6f0c
 Section: 系验证
 Description: 无视证书掉签，支持重新启动使用。首次安装成功会 软重启/注销 演示视频-官网：Aodmin.cn
 Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
@@ -441,20 +441,4 @@ Section: 插件
 Description: NFC模拟支持11-14
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: NFCWriter XS
-
-Package: supercharge
-Version: 1.0.0~preview1
-Architecture: iphoneos-arm
-Maintainer: Supercharge Team <maintainer@supercharge.app>
-Depends: firmware (>= 9.1), mobilesubstrate, org.swift.libswift (>= 5.0)
-Filename: ./debs/supercharge.deb
-Size: 8148246
-MD5sum: fd12c07b16bf8a63d6659299294984e1
-SHA1: f7616dbdc7d8423b72c890ea376a0b8855492bce
-SHA256: 6673afad8c2cc841769095e15ceea9a1a7a21b5d999cd074ece00d5b78c1ef98
-Section: 插件
-Description: Supercharge 提供了比 Flex 3 更强大的进程挂钩，它可以让用户修改他们的设备，而无需掌握如何编写越狱调整的广泛知识。同样，它允许用户彼此共享补丁。
-Author: Supercharge Team <author@supercharge.app>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Supercharge插件钩子
 
