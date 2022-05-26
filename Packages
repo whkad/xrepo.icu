@@ -145,17 +145,17 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 开启电池健康显示（ios11-14）
 
 Package: com.aodmin.cn
-Version: 3.31
+Version: 3.32
 Architecture: iphoneos-arm
 Maintainer: 系
 Depends: firmware (>= 9.0)
-Filename: ./debs/com.aodmin.cn_3.31_iphoneos-arm.deb
-Size: 4898116
-MD5sum: 95d52325a8c04b7b0850c9a1ac56cf71
-SHA1: 18999631e08d64fb8ace7c66cb6a8c6505d57ff5
-SHA256: 0e8eae78ab6670502867c258cc158ae121d4e493e8dc161c2ab19ddc23cd7222
+Filename: ./debs/com.aodmin.cn_3.32_iphoneos-arm.deb
+Size: 4897602
+MD5sum: 32069bc33cbd48d438357641b5e36d37
+SHA1: dad66f676bac3c8b2295e1d055955385a2d98e1f
+SHA256: f5d3dbe11ddfb4488f13f62ce97d2287d90520e036b4cf70670fe1ee8524eedf
 Section: 系验证
-Description: 无视证书掉签，支持重新启动也可使用。安装成功会 软重启/注销 演示视频-官网：Aodmin.cn
+Description: 无视证书掉签，重新启动也可使用。安装成功会 软重启/注销 演示视频-官网：Aodmin.cn
 Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
 Name: 系验证🦋
 
