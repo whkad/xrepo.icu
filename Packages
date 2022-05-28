@@ -150,10 +150,10 @@ Architecture: iphoneos-arm
 Maintainer: 系
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.aodmin.cn_3.33_iphoneos-arm.deb
-Size: 4901782
-MD5sum: 6960f0912854e23cfdbd164ceb035a1e
-SHA1: bb6e21693fcf1d9eb1eac307decaef4bfc21c977
-SHA256: 650163cff59cd39ee82ff46041a9e75989d01e28bf91353962000a5a9c7e015d
+Size: 4901650
+MD5sum: 8f3bd2e39ba25f1ac4860e8171e6ca96
+SHA1: a0607470628df9941d4a5c7bf90b7cb37ffbdf63
+SHA256: 15a291f97f34dac750b566389df3c888bc25849ccdcd3f61d1e0ecab3858f5d5
 Section: 系验证
 Description: 无视证书掉签，重新启动也可使用。安装成功会 软重启/注销 演示视频-官网：Aodmin.cn
 Icon: file:///Applications/Preferences.app/AppIcon60x60@2x.png
